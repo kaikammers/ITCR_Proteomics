@@ -1,5 +1,5 @@
 ---
-title: "Course Title"
+title: "Proteomics TMT Technology"
 output: html_document
 ---
 
