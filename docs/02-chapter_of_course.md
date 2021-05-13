@@ -5,7 +5,7 @@ output: html_document
 
 ## Learning Objectives
 
-This chapter will cover:  
+This chapter will cover *briefly*:  
 
 - {You can use https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf to define some learning objectives here}
 - {Another learning objective}
@@ -132,7 +132,7 @@ devtools::session_info()
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2021-05-06                  
+##  date     2021-05-13                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version date       lib source        

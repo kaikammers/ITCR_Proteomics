@@ -5,7 +5,7 @@ output: html_document
 
 ## Learning Objectives
 
-This chapter will cover:  
+This chapter will cover *briefly*:  
 
 - {You can use https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf to define some learning objectives here}
 - {Another learning objective}
