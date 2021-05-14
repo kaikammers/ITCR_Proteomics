@@ -8,14 +8,14 @@ If you would like to contribute to this course material, take a look at the [get
 
 ## About this course
 
-This course introduces {info on what this course introduces}
+This course introduces {info on what this course introduces}.
 
 ## Learning Objectives
 
 This course will teach learners to:  
 
-- {You can use https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf to define some learning objectives here}
-- {More learning objectives}
+- {You can use https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf to define some learning objectives here}.
+- {More learning objectives}.
 
 ## Encountering problems?
 
